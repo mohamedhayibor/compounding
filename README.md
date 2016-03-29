@@ -9,7 +9,7 @@ This module calculates the value of the initial investment based on rates of ret
 
 ## Usage
 
-Params: (initial investment, [%, %, %, %...]).
+Params: (initial investment, [%, %, %, %...])
 > caution: the result is a string, feel free to coerce it into a number if you need to.
 
 ```js
