@@ -1,0 +1,20 @@
+{
+  "name": "compounding",
+  "version": "0.0.1",
+  "description": "calculates the value of the initial investment based on rates of return (daily, monthly, semi-annual, annual...).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedhayibor/compounding.git"
+  },
+  "keywords": ["investment", "worth", "financial", "gains", "loss", "compounding", "compoud", "value", "calculation"],
+  "author": "Mohamed Hayibor <mohamedhayibor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohamedhayibor/compounding/issues"
+  },
+  "homepage": "https://github.com/mohamedhayibor/compounding#readme"
+}
