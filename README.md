@@ -1,6 +1,6 @@
 compounding ![](https://img.shields.io/badge/status-stable-green.svg)
 ----
-This module calculates the value of the initial investment based on rates of return (daily, monthly, semi-annual, annual...).
+This module calculates the value of the initial investment based on rates of return (daily, monthly, semi-annual, annual...) :moneybag:.
 
 ## Installation
 ```
