@@ -25,4 +25,4 @@ To make the calculation of how much your investment is worth now super easy. Jus
 Super Light (5 sloc). No dependencies.
 
 ## License
-![](https://img.shields.io/badge/license-MIT-blue.svg) © [Mohamed Hayibor](https://github.com/mohamedhayibor)
+© [Mohamed Hayibor](https://github.com/mohamedhayibor)
